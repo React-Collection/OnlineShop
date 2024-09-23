@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    // align-items: end;
+    gap: 30px;
+    
+  a{
+    text-decoration: none;
+    width: 15%;
+    text-align: center;
+    border: 1px solid gray;
+    padding: 1%;
+  }
+}
