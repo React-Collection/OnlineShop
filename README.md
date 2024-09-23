@@ -1,5 +1,5 @@
 # Online Shop - React Project
-
+<img src="/public/images/github/git.png" alt="online shop" />
 ## Project Overview
 
 This project is an **Online Shop** web application, built with modern frontend technologies such as **React**, **Vite**, **SCSS**, and **React Router DOM**. The application is designed to showcase products, allow users to browse categories, view product details, and manage their shopping cart. It can be extended to include checkout functionalities, user authentication, and more advanced e-commerce features.
