@@ -2,7 +2,7 @@ const HeaderItems = [
   { item: "Home" },
   { item: "Shop" },
   { item: "About" },
-  { item: "Contact Us" },
+  { item: "ContactUs" },
 ];
 
 export default HeaderItems;
