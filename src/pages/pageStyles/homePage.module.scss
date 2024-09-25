@@ -1,14 +1,18 @@
 .mainSection{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 35px;
     justify-content: center;
     align-items: center;
+
+    h1{
+        font-size: 55px;
+    }
 
 
 
     video{
-        width: 80%;
+        width: 90%;
         border-radius: 20px;
     }
 }

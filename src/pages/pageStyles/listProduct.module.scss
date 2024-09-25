@@ -9,7 +9,15 @@
     text-decoration: none;
     width: 15%;
     text-align: center;
-    border: 1px solid gray;
+    border: 1px solid rgb(210, 210, 210);
     padding: 1%;
+    background-color: rgb(255 255 255 / 44%);
+    border-radius: 5px;
+
+    &:hover{
+      background-color: rgb(150, 54, 150);
+      color: white;
+      border: 1px solid  rgb(150, 54, 150);
+    }
   }
 }
