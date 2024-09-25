@@ -1,7 +1,7 @@
 const dataProducts = [
   {
     id:1,
-    name: "Sun glasses",
+    name: "Milk Coffee",
     price: "190$",
     description: "This is a Sun Glasses",
     image: "https://picsum.photos/200/300",
@@ -9,7 +9,7 @@ const dataProducts = [
   },
   {
     id:2,
-    name: "Laptop",
+    name: "Ice Cream",
     price: "2000$",
     description: "This is a Laptop",
     image: "https://picsum.photos/200/300",
@@ -17,7 +17,7 @@ const dataProducts = [
   },
   {
     id:3,
-    name: "Cup",
+    name: "Brazil Coffee",
     price: "50$",
     description: "This is a cup",
     image: "https://picsum.photos/200/300",
@@ -25,7 +25,7 @@ const dataProducts = [
   },
   {
     id:4,
-    name: "Book",
+    name: "Coffee Mix",
     price: "35$",
     description: "This is a Book",
     image: "https://picsum.photos/200/300",
@@ -33,7 +33,7 @@ const dataProducts = [
   },
   {
     id:5,
-    name: "Dress",
+    name: "Ice Coffee",
     price: "50$",
     description: "This is a Dress",
     image: "https://picsum.photos/200/300",
@@ -41,7 +41,7 @@ const dataProducts = [
   },
   {
     id:6,
-    name: "Doll",
+    name: "Tea",
     price: "65$",
     description: "This is a Doll",
     image: "https://picsum.photos/200/300",
