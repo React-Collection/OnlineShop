@@ -6,7 +6,9 @@ const Shop = () => {
   return (
     <div className={styles.parentSection}>
       <h1>All Products</h1>
-      <Outlet />
+      <div>
+        <Outlet />
+      </div>
     </div>
   );
 };
